@@ -32,6 +32,8 @@
     4. Run ./start.py
     5. Access the application through `localhost:8000`
 
+# Link to live site
+
 ## Known bugs
 * No known bugs.
 
