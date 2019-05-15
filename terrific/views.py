@@ -3,7 +3,7 @@ from django.http import HttpResponse, Http404
 from .models import  Location, Category, Photo
 
 # Create your views here.
-def index(request):
+def index(request):  
 
     '''
     view function to display landing page
