@@ -33,7 +33,7 @@
     5. Access the application through `localhost:8000`
 
 # Link to live site
-    * 
+    * https://appphotos.herokuapp.com/
 
 ## Known bugs
 * No known bugs.
