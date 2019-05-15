@@ -4,8 +4,8 @@
 
 # User stories :
     * As a user, I would like to select an image.
-    * As a user, I would like to be signed in for me to leave a comment
-    * As a user, I would like to receive a welcoming email once I sign up.
+    * As a user, I would like to be view its details.
+    * As a user, I would like to receive a brief detailed image information.
     * As a user, I would like to view the pitches I have created in my profile page.
     * As a user, I would like to view the different categories.
 
