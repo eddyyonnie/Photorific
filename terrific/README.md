@@ -1,6 +1,6 @@
 # PHOTORIFIC
 ## Description
-* This is a credentialed requirement for actually being able to pitch phrases and saying one sees fit into availed categories for the exploration a user's eyes.
+* This is a platform requirement for actually being able to pitch phrases and saying one sees fit into availed categories for the exploration a user's eyes.
 
 # User stories :
     * As a user, I would like to select an image.
