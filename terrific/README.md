@@ -30,7 +30,7 @@
     2. Create a virtual environment
     3. Read the specs and requirements files and Install all the requirements.
     4. Run ./start.py
-    5. Access the application through `localhost:5000`
+    5. Access the application through `localhost:8000`
 
 ## Known bugs
 * No known bugs.
