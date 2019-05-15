@@ -36,7 +36,7 @@
     * https://appphotos.herokuapp.com/
 
 ## Known bugs
-* No known bugs.
+* No  known bugs.
 
 ## Contact Information
 * emailaddress- eddyyonnie@gmail.com
