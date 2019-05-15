@@ -13,7 +13,7 @@ class Category(models.Model):
 
     def __str__(self):
         return self.category_name
-
+  
 class Photo(models.Model):
     photo_name=models.CharField(max_length=30)
     image=models.ImageField(upload_to = 'images/')
