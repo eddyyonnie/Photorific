@@ -35,7 +35,7 @@ def search_results(request):
         
 
 def sortby_locations(request):
-
+ 
     '''
     view function to display images sorted by Location
     '''
