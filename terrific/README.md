@@ -7,7 +7,7 @@
     * As a user, I would like to be view its details.
     * As a user, I would like to receive a brief detailed image information.
     * As a user, I would like to view the images I have created.
-    * As a user, I would like to view the different categories.
+    * As a user, I would like to view the difference in  categoriy.
 
 
 ## Behavior Driven Development
