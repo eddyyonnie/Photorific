@@ -24,7 +24,7 @@ class Photo(models.Model):
     def __str__(self):
         return self.photo_name
 # Create your models here.
-    @classmethod
+    @classmethod  
     def filter_by_location(cls):
         photos = Photo.objects.order_by('location')
         return photos
