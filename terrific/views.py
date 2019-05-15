@@ -14,7 +14,7 @@ def index(request):
     return render(request, 'index.html', {"images": images,})
 
 
-def search_results(request):
+def search_results(request):  
 
     '''
     view function to open search page and display searched images
